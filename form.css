@@ -1,0 +1,14 @@
+
+body {
+           font-family: sans-serif ;
+           font-size: 1em;
+           font-weight:bold ;
+    }
+.img {
+    display: flex;
+    justify-content: space-around;
+}
+table {
+    background-color: rgba(24, 192, 164, 0.952);
+    border: 2px solid black;
+}
